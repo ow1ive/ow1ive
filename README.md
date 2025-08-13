@@ -6,12 +6,6 @@
 
 ---
 
-## 🌷 About Me
-- 🌱 Currently learning **React.js** & **UI Animations**.  
-- 📍 Based in **Manila, Philippines**.  
-
----
-
 ## 🛠 My Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML5-ff6f91?logo=html5&logoColor=white&style=for-the-badge)
