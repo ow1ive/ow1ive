@@ -1,13 +1,12 @@
 <!-- Profile Header -->
 <h1 align="center">Hi! I'm ⋆˚࿔ Olive ‧₊ᵎ🍒⋅°✮ </h1>
 <p align="center">
-🎧 UI/UX Designer • 🫧 Creativity Enthusiast  
+🎨 UI/UX Designer • 🫧 Creativity Enthusiast  
 </p>
 
 ---
 
 ## 🌷 About Me
-- 🎨 **Design First**: Creating beautiful, user-friendly digital experiences.  
 - 🌱 Currently learning **React.js** & **UI Animations**.  
 - 📍 Based in **Manila, Philippines**.  
 
@@ -22,13 +21,6 @@
 ![Java](https://img.shields.io/badge/-Java-ffb347?logo=java&logoColor=white&style=for-the-badge)
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ow1ve&show_icons=true&theme=rose_pine" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ow1ve&layout=compact&theme=rose_pine" alt="Top Languages" />
-</p>
-
 
 <!--
 **ow1ive/ow1ive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
